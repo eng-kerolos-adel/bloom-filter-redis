@@ -1,0 +1,7 @@
+{
+  "name": "bloom-filter-redis-node",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node index.mjs" },
+  "dependencies": { "redis": "^4.7.0" }
+}
